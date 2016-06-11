@@ -1,0 +1,24 @@
+{
+  "name": "jquery.mobilemenu",
+  "version": "1.0.0",
+  "description": "jquery.mobilemenu is a plugin for jquery that will automatically gemerate a mobile friendly touch enabled menu for your website when viewed in a mobile browser.",
+  "main": "jquery.mobilemenu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izio/jquery.mobilemenu.git"
+  },
+  "keywords": [
+    "jquery",
+    "plugin",
+    "mobile"
+  ],
+  "author": "Patrick Robin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izio/jquery.mobilemenu/issues"
+  },
+  "homepage": "https://github.com/izio/jquery.mobilemenu#readme"
+}
